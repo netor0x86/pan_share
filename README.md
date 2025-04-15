@@ -19,6 +19,9 @@
 |11|SpringBoot+Vue前后端分离《盈利宝》金融理财项目	|[下载](https://pan.quark.cn/s/6bacb1c4facd)|
 |12|基于uniapp+vue3+TypeScript 实战开发《小兔鲜儿商城小程序》完整资料	|[下载](https://pan.quark.cn/s/7e8687d971f0)|
 |13|后端校招面试突击课，4年本科基础大复盘助力进大厂【完结】|	[下载](https://pan.quark.cn/s/00ddb63740fd)|
+|16|	系统分析师-基础知识精讲	|[下载](https://pan.quark.cn/s/1099215ba3ac)|
+|17|	01系统分析师	|[下载](https://pan.quark.cn/s/90269181d411)|
+|18|	04系统架构设计师	|[下载](https://pan.quark.cn/s/f807beb08fff)|
 
 ## 二、AI 相关资源
 | 序号 | 名称 | 链接 |
