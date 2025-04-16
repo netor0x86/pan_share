@@ -22,6 +22,9 @@
 |16|	系统分析师-基础知识精讲	|[下载](https://pan.quark.cn/s/1099215ba3ac)|
 |17|	01系统分析师	|[下载](https://pan.quark.cn/s/90269181d411)|
 |18|	04系统架构设计师	|[下载](https://pan.quark.cn/s/f807beb08fff)|
+|19|	软考系统架构设计师2024年11月|[下载](https://pan.quark.cn/s/693dd39af025)|
+|20|	06信息系统项目管理师	|[下载](https://pan.quark.cn/s/72fed591f5d7)|
+|21|	软考高级信息系统项目	|[下载](https://pan.quark.cn/s/34b20488f6dd)|
 
 ## 二、AI 相关资源
 | 序号 | 名称 | 链接 |
