@@ -25,7 +25,7 @@
 |19|	软考系统架构设计师2024年11月|[下载](https://pan.quark.cn/s/693dd39af025)|
 |20|	06信息系统项目管理师	|[下载](https://pan.quark.cn/s/72fed591f5d7)|
 |21|	软考高级信息系统项目	|[下载](https://pan.quark.cn/s/34b20488f6dd)|
-|22|	软考系统分析师视频教程真题资料	https://pan.quark.cn/s/7a4d6096278f)|
+|22|	软考系统分析师视频教程真题资料	|[下载](https://pan.quark.cn/s/7a4d6096278f)|
 |23|	05网络规划设计师	|[下载](https://pan.quark.cn/s/f2d5602be18a)|
 |24|	2023-2025软考高级信息系统项目管理师合集	|[下载](https://pan.quark.cn/s/72231576bf45)|
 |25|	03系统规划与管理师	|[下载](https://pan.quark.cn/s/219ebdda1fdc)|
