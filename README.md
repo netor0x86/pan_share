@@ -27,10 +27,11 @@
 |21|	软考高级信息系统项目	|[下载](https://pan.quark.cn/s/34b20488f6dd)|
 |22|	软考系统分析师视频教程真题资料	|[下载](https://pan.quark.cn/s/7a4d6096278f)|
 |23|	05网络规划设计师	|[下载](https://pan.quark.cn/s/f2d5602be18a)|
-|24|	2023-2025软考高级信息系统项目管理师合集	|[下载](https://pan.quark.cn/s/72231576bf45)|
+|24|	软考高级信息系统项目管理师合集	|[下载](https://pan.quark.cn/s/72231576bf45)|
 |25|	03系统规划与管理师	|[下载](https://pan.quark.cn/s/219ebdda1fdc)|
 |26|	02 官方教材基础精讲	|[下载](https://pan.quark.cn/s/1e962d6fff81)|
 |27|	Python分布式爬虫与JS逆向进阶实战（前12章）	|[下载](https://pan.quark.cn/s/78574d263b14)|
+|28|	软考中级数据库系统工程师|	[下载](https://pan.quark.cn/s/af1ddc678bd2)|
 
 ## 二、AI 相关资源
 | 序号 | 名称 | 链接 |
