@@ -40,5 +40,16 @@
 |2|	百度飞桨联合设计双证资深AI实战工程师（CV方向）|	[下载](https://pan.quark.cn/s/fd89963edae9)|
 |3|	AI大模型全栈工程师|	[下载](https://pan.quark.cn/s/fbc481fe0d17)|
 
+## 三、影视
+| 序号 | 名称 | 链接 |
+|:----:| ---- | ---- |
+|1|	幽灵2012	|[下载](https://pan.quark.cn/s/f097a23a5ecf)|
+|2|	屌丝男士S01		|[下载](https://pan.quark.cn/s/fe604b0899c2)|
+|3|	屌丝男士S02	|[下载](https://pan.quark.cn/s/7e95da7972c8)|
+|4|	屌丝男士S03	|[下载](https://pan.quark.cn/s/94dafd40dec1)|
+|5|	屌丝男士S04	|[下载](https://pan.quark.cn/s/b41aa5576f9c)|
+|6|	弱小的英雄第一季	|[下载](https://pan.quark.cn/s/c9b4f0533b09)|
+|7|	弱小的英雄第二季	|[下载](https://pan.quark.cn/s/a891c40ea12f)|
+
 
 
