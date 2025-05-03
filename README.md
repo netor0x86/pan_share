@@ -39,6 +39,9 @@
 |1|	Cursor快速入门与实战|	[下载](https://pan.quark.cn/s/3c23741f2493)|
 |2|	百度飞桨联合设计双证资深AI实战工程师（CV方向）|	[下载](https://pan.quark.cn/s/fd89963edae9)|
 |3|	AI大模型全栈工程师|	[下载](https://pan.quark.cn/s/fbc481fe0d17)|
+|4|	80节AI指令实战课程+案例分享	|	[下载](https://pan.quark.cn/s/72037be606bf)|
+|5|	1310-AI应用实战课	|	[下载](https://pan.quark.cn/s/df502e5b4284)|
+|6|	AI大模型全链路实战	|	[下载](https://pan.quark.cn/s/fdda25d82324)|
 
 ## 三、影视
 | 序号 | 名称 | 链接 |
