@@ -32,6 +32,13 @@
 |26|	02 官方教材基础精讲	|[下载](https://pan.quark.cn/s/1e962d6fff81)|
 |27|	Python分布式爬虫与JS逆向进阶实战（前12章）	|[下载](https://pan.quark.cn/s/78574d263b14)|
 |28|	软考中级数据库系统工程师|	[下载](https://pan.quark.cn/s/af1ddc678bd2)|
+|30|	希赛新版架构师全套视频	|	[下载](https://pan.quark.cn/s/aa1a1a9e9e15)|
+|31|	慕课实战 - Python Flask高级编程之RESTFul API前后端分离精讲	|[下载](https://pan.quark.cn/s/0c560a90d304)|
+|32|	慕课实战 - Python Flask高级编程之从0到1开发《鱼书》精品项目	|[下载](https://pan.quark.cn/s/0099057b1e49)|
+|33|	大熊课堂_Django+Vue：Python Web全栈开发【194节】	|[下载](https://pan.quark.cn/s/1baf428f1670)|
+|34|	mksz769-新考纲-系统架构设计师（软考高级） 一站式通关课程	|[下载](https://pan.quark.cn/s/e194d2bdbe7f)|
+|35|	50w字程序员面试宝典(咕泡科技出品)	|[下载](https://pan.quark.cn/s/6d379b3feceb)|
+|36|	飞天小子博客网性能测试课程	|[下载](https://pan.quark.cn/s/72598c14c882)|
 
 ## 二、AI 相关资源
 | 序号 | 名称 | 链接 |
@@ -46,13 +53,15 @@
 ## 三、影视
 | 序号 | 名称 | 链接 |
 |:----:| ---- | ---- |
-|1|	幽灵2012	|[下载](https://pan.quark.cn/s/f097a23a5ecf)|
-|2|	屌丝男士S01		|[下载](https://pan.quark.cn/s/fe604b0899c2)|
+|1|	幽灵2012|[下载](https://pan.quark.cn/s/f097a23a5ecf)|
+|2|	屌丝男士S01|[下载](https://pan.quark.cn/s/fe604b0899c2)|
 |3|	屌丝男士S02	|[下载](https://pan.quark.cn/s/7e95da7972c8)|
 |4|	屌丝男士S03	|[下载](https://pan.quark.cn/s/94dafd40dec1)|
 |5|	屌丝男士S04	|[下载](https://pan.quark.cn/s/b41aa5576f9c)|
-|6|	弱小的英雄第一季	|[下载](https://pan.quark.cn/s/c9b4f0533b09)|
-|7|	弱小的英雄第二季	|[下载](https://pan.quark.cn/s/a891c40ea12f)|
-
-
+|6|	弱小的英雄第一季|[下载](https://pan.quark.cn/s/c9b4f0533b09)|
+|7|	弱小的英雄第二季|[下载](https://pan.quark.cn/s/a891c40ea12f)|
+|8|	黑客军团S01	|[下载](https://pan.quark.cn/s/81c0cdd5654b)|
+|9|	黑客军团S02	|[下载](https://pan.quark.cn/s/b6774a0847f2)|
+|10|黑客军团S03	|[下载](https://pan.quark.cn/s/f7874c7a9db0)|
+|11|黑客军团S04	|[下载](https://pan.quark.cn/s/55f10eebdbf8)|
 
