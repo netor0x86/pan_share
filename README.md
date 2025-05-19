@@ -78,3 +78,32 @@
 |7|	20250509	|[下载](https://pan.quark.cn/s/d72ae58b2bf1)|	《从领导力角度看生成式AI转型研究报告》。领导者在生成式AI转型中的角色和应对策略是什么？领导力又有着什么作用呢？且看！|
 
 ## 五、其他
+|序号 | 名称 | 链接 |备注|
+|:----:| ---- | ---- | ---- | 
+|4|	我是驴友——国内旅游攻略pdf	|[下载](https://pan.quark.cn/s/475bbed441f1)|
+|5|	01、《医案大全》系列463套	|[下载](https://pan.quark.cn/s/47ea928ffedb)|
+|6|	02、《黄帝内经》系列203套	|[下载](https://pan.quark.cn/s/4426c455bd50)|
+|7|	03、《金匮要略》系列65套	|[下载](https://pan.quark.cn/s/33b1622a523a)|
+|8|	04、《伤寒论》系列96套	|[下载](https://pan.quark.cn/s/faeae1c1295a)|
+|9|	05、《中医古籍珍稀抄本精》系列58册	|[下载](https://pan.quark.cn/s/03d608787116)|
+|10|	06、《现代著名老中医名著丛书》71册	|[下载](https://pan.quark.cn/s/9364768652c7)|
+|11|	07、《中医药物集成》系列24册	|[下载](https://pan.quark.cn/s/efc0c193b553)|
+|12|	08、《中华传世医典》系列12册	|[下载](https://pan.quark.cn/s/11617644a000)|
+|13|	09、《巴蜀名医遗珍丛书》系列20册	|[下载](https://pan.quark.cn/s/646d6bf21d9d)|
+|14|	10、《历代中医名著文库》系列9册	|[下载](https://pan.quark.cn/s/fcd752adb335)|
+|15|	11、《中国现代百名中医临床家》143套	|[下载](https://pan.quark.cn/s/2c4136fe2ff1)|
+|16|	12、《中华医学四诊全书》系列4套	|[下载](https://pan.quark.cn/s/e6c429124614)|
+|17|	13、《中国本草彩色图鉴》系列3册	|[下载](https://pan.quark.cn/s/251fdd48760b)|
+|18|	14、《自学中医之路丛书》系列16册	|[下载](https://pan.quark.cn/s/5e1f4544fa2c)|
+|19|	17、《明清名医全书大成》30册	|[下载](https://pan.quark.cn/s/4054f9140418)|
+|20|	18、《临床诊疗指南全集》47册	|[下载](https://pan.quark.cn/s/1311743aac48)|
+|21|	19、哈里森内科学(15版、16版)	|[下载](https://pan.quark.cn/s/460d36da6bb1)|
+|22|	20、《实用内科学》(14版、15版)	|[下载](https://pan.quark.cn/s/2d33b347b7da)|
+|23|	22、《针灸》10套	|[下载](https://pan.quark.cn/s/07f4cae5e587)|
+|24|	23《中医高清脉学和经络图》	|[下载](https://pan.quark.cn/s/cdb353b33c7e)|
+|25|	24、全套规培教材高清彩色扫描版	|[下载](https://pan.quark.cn/s/72248f41877a)|
+|26|	25、《奈特图谱》	|[下载](https://pan.quark.cn/s/5fdd37f51db9)|
+|27|	30、《大学中医课本》36套	|[下载](https://pan.quark.cn/s/cd53a251a2db)|
+|28|	31、《倪海厦书籍》扫描版5册	|[下载](https://pan.quark.cn/s/c1863da7e889)|
+|29|	35.《医学笔记》35本	|[下载](https://pan.quark.cn/s/f8a68946bf9e)|
+|30|	36、医学类学习指导和习题集	|[下载](https://pan.quark.cn/s/e5fb5fbee54b)|
